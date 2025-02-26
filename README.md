@@ -1,4 +1,4 @@
-📌 **Bu repo, Acunmedya ödevleri için oluşturulmuştur.**  
+📌 **Bu repo, AcunMedyaAkademi ödevleri için oluşturulmuştur.**  
 İçerisinde ödevler, projeler ve ilgili dokümanlar bulunmaktadır.  
 
 ---
