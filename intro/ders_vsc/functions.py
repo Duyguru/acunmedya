@@ -17,6 +17,12 @@ sonucumuz tuple olarak doner.
 
 **kwargs: tek yildizdan en onemli farki fonksiyonu cagirirken anahtar deger iliskisiyle cagirabilmek
 sonucumuz dictionary olarak doner.
+
+*args ve **kwargs, esnek fonksiyonlar yazmanı sağlar.
+
+Yerleşik fonksiyonları (sum, print vb.) override etmemeye dikkat et!
+
+Lambda fonksiyonlar basit işlemler için idealdir.
 """
 
 def fonksiyon(*args,**kwargs):
